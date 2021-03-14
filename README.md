@@ -1,4 +1,4 @@
-### Hey, guys! I'm Marco ✌😄
+### Hey, there! I'm Marco ✌😄
 <!--
 **marco-galbarini/marco-galbarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
