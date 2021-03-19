@@ -1,5 +1,5 @@
 ### Hey, there! I'm Marco ✌😄
-Welcome to my GitHub!
+Welcome to my GitHub profile!
 <!--
 **marco-galbarini/marco-galbarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
